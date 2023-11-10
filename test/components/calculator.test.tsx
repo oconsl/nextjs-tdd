@@ -4,6 +4,8 @@ import { render, screen } from '@testing-library/react'
 
 const mockCalculatorFn = vi.fn()
 
+//! RECUERDEN COMPLETAR LOS TEST FALTANTES
+
 describe('Calculator Component', () => {
   describe('Render elements', () => {
     it('should render', () => {
